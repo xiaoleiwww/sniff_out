@@ -35,5 +35,4 @@ The content file (for windows) is updated in https://pan.baidu.com/s/16MscdPqsR_
 
 The screenshot is shown below (This is the previous version):
 
-![Screenshot 2024-10-11 202956.png]
-
+![alt text](<Screenshot 2024-10-11 202956.png>)
