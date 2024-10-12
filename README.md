@@ -36,3 +36,5 @@ Full content file (for windows) is updated in https://pan.baidu.com/s/16MscdPqsR
 The screenshot is shown below (This is the previous version):
 
 ![alt text](<Screenshot 2024-10-11 202956.png>)
+
+Authors: joyable, xiaoleiwww (@xiaoleiwww @kanameaika), etc.
