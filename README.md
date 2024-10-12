@@ -27,7 +27,7 @@ The "Sniff Out - smell interaction game" is a game that combines 3D gaming techn
 
 **Technical Implementation**:
 
-- **Hardware Support**: The game requires support for VR devices and technology capable of emitting scents.
+- **Hardware Support**: The game requires support for VR devices (for VR mode) and technology capable of emitting scents.
 - **Software Development**: The game utilizes unreal engine 5 to achieve high-quality visuals and realistic physical simulations.
 - **User Interface**: An intuitive user interface design makes it easy for players to interact with the game environment.
 
