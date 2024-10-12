@@ -1,8 +1,8 @@
-# Sniff Out - VR-smell interaction game
+# Sniff Out - smell interaction game
 
 **Introduction**:
 
-The "Sniff Out - VR-smell interaction game" is a game that combines virtual reality (VR) technology with olfactory interactions. In this game, players find themselves in a meticulously designed maze environment where they interact with elements within the game to explore and solve puzzles. The core feature of the game is the integration of smell as an interactive component, enhancing the player’s sense of immersion and depth of experience.
+The "Sniff Out - smell interaction game" is a game that combines 3D gaming technology with olfactory interactions. In this game, players find themselves in a meticulously designed maze environment where they interact with elements within the game to explore and solve puzzles. The core feature of the game is the integration of smell as an interactive component, enhancing the player’s sense of immersion and depth of experience.
 
 **Gameplay**:
 
@@ -21,7 +21,7 @@ The "Sniff Out - VR-smell interaction game" is a game that combines virtual real
 
 **Features**:
 
-- **Immersive Experience**: Through VR technology and olfactory interactions, the game provides an unprecedented level of immersion.
+- **Immersive Experience**: Through VR technology (developing) and olfactory interactions, the game provides an unprecedented level of immersion.
 - **Multisensory Stimulation**: Beyond just visual and auditory cues, the addition of scent allows players to engage with the game world using multiple senses.
 - **Innovative Interaction Mechanism**: Players can interact with the game environment through simple clicks, making the interaction mechanism both intuitive and straightforward.
 
