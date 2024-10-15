@@ -31,8 +31,6 @@ The "Sniff Out - smell interaction game" is a game that combines 3D gaming techn
 - **Software Development**: The game utilizes unreal engine 5 to achieve high-quality visuals and realistic physical simulations.
 - **User Interface**: An intuitive user interface design makes it easy for players to interact with the game environment.
 
-Full content file (for windows) is updated in https://pan.baidu.com/s/16MscdPqsR_9cVWrkbSdRlg?pwd=6vyc 提取码: 6vyc
-
 The screenshot is shown below (This is the previous version):
 
 ![alt text](<Screenshot 2024-10-11 202956.png>)
